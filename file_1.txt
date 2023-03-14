@@ -1,3 +1,7 @@
 file one added
 file one updated
+<<<<<<< HEAD
 updated from main
+=======
+updated from branch_b
+>>>>>>> 3c59c1b (file_1 updated from branch_b)
